@@ -4,8 +4,11 @@ LAB 01
 Dataset:
 
 Iris Flower
+
 Lung Cancer
+
 Face Image
+
 Breast Cancer
 
 
