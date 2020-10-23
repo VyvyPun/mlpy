@@ -7,7 +7,10 @@ Iris Flower
 Lung Cancer
 Face Image
 Breast Cancer
-Requirements
+
+
+
+Requirements:
 
 Run k-NN, Decision Tree, Random Forest and SVM for each dataset
 Show the Precision, Recall and Accuracy for each dataset.
